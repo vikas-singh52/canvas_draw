@@ -1,0 +1,14 @@
+
+*{
+    margin:0px;
+    padding:0px;
+    overflow: hidden;
+}
+#canvas{
+   cursor: pointer;
+}
+p{
+    margin:auto;
+    text-align:center;
+ 
+}
